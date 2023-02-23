@@ -6,8 +6,6 @@ The argparse, os, re, and json packages are included in the standard library of 
 
 usage: script.py [-h] image extensions
 
-Analyze Google Chrome extensions for dangerous permissions and keylogger code
-
 positional arguments:
   extensions   Path to the directory containing the extensions
 
